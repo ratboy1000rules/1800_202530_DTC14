@@ -60,7 +60,7 @@ elmo-hikes/
 
 ## Contributors
 - **Rathnesh** -  Fun fact: Loves to code, and game.
-- **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+- **Finn** - BCIT CST Student with a passion for the outdoors and video editing. Fun fact: Has sailed over 27,000 km offshore.
 
 ---
 
