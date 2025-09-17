@@ -59,7 +59,8 @@ elmo-hikes/
 
 
 ## Contributors
-- **Rathnesh** -  Fun fact: Loves to code, and game.
+- **Rathnesh** -  Fun fact: Loves to code, and game
+- **Kevin Wu** - BCIT CST Student who loves any kind of sports.
 - **Finn** - BCIT CST Student with a passion for the outdoors and video editing. Fun fact: Has sailed over 27,000 km offshore.
 
 ---
